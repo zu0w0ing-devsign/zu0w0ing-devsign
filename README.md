@@ -6,11 +6,11 @@
 ---
 
 ## 👩‍💻 About Me
-
+**zu0w0ing (a.k.a zen)**
 - 🎓 Digital Media major (1st year)
-- 💻 Learning: C++, Python, Web Dev
+- 💻 Learning: C++, Python, Illustration, Photoshop...
 - 🎮 Interested in: game development & UI/UX
-- 🎨 Inspired by story-driven games like Pokémon
+- 🎨 Inspired by story-driven games
 
 ---
 
@@ -32,7 +32,7 @@
 ## 🌐 Links
 
 - 🔗 [Website](https://zu0w0ing-devsign.github.io)  
-- 📝 [Notion Portfolio](https://notion.so/your-link) ← 너가 설정한 링크 넣으면 돼!
+- 📝 [Notion Portfolio](https://www.notion.so/zu0w0ing-s-Devsign-Lab-1f3f97c0af0a806c8522f5e629148495?pvs=4)
 - 🐙 [GitHub Repos](https://github.com/zu0w0ing-devsign)
 
 ---
