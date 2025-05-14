@@ -32,7 +32,7 @@
 ## 🌐 Links
 
 - 🔗 [Website](https://zu0w0ing-devsign.github.io)  
-- 📝 [Notion Portfolio](https://glitter-bubbler-c19.notion.site/zu0w0ing-s-Devsign-Lab-1f3f97c0af0a806c8522f5e62914849)
+- 📝 [Notion Portfolio](https://glitter-bubbler-c19.notion.site/zu0w0ing-s-Devsign-Lab-1f3f97c0af0a806c8522f5e629148495)
 - 🐙 [GitHub Repos](https://github.com/zu0w0ing-devsign)
 
 ---
